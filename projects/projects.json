@@ -1,342 +1,252 @@
 [
   {
-    "name": "NotyStack Android",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
-    "image": "notystackandroid",
-    "category": "android",
+    "name": "ESP32 OTA Web Server",
+    "desc": "This project demonstrates how to set up an ESP32 for Over-The-Air (OTA) updates using a web server. The ESP32 connects to a specified Wi-Fi network and hosts a web interface for uploading new firmware.",
+    "category": "IoT",
+    "image": "URL_to_image",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/notystack-android"
+     "view": "#",
+      "code": "https://github.com/esmail-sarhadi/esp32-ota-web-server"
     }
   },
   {
-    "name": "SPPU Engg Prep",
-    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
-    "image": "sppuprepandroid",
-    "category": "android",
+    "name": "ESP32 OTA Web Server Relay",
+    "desc": "This project demonstrates how to set up an ESP32 for Over-The-Air (OTA) updates using a web server, along with controlling a relay.",
+    "category": "IoT",
+    "image": "URL_to_image",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/sppu-prep-android"
+     "view": "#",
+      "code": "https://github.com/esmail-sarhadi/esp32-ota-web-server-relay"
     }
   },
   {
-    "name": "NewsBox Android",
-    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
-    "image": "newsboxandroid",
-    "category": "android",
+    "name": "ESP32 OTA Update Example 2",
+    "desc": "This project demonstrates how to set up an ESP32 for Over-The-Air (OTA) updates using the Arduino IDE, along with controlling a relay.",
+    "category": "IoT",
+    "image": "URL_to_image",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/newsbox-android"
+     "view": "#",
+      "code": "https://github.com/esmail-sarhadi/esp32-ota-update-example-2"
     }
   },
   {
-    "name": "Weatherly Android",
-    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
-    "image": "weatherlyandroid",
-    "category": "android",
+    "name": "ESP32 OTA Update Example",
+    "desc": "This project demonstrates how to set up an ESP32 for Over-The-Air (OTA) updates using the Arduino IDE.",
+    "category": "IoT",
+    "image": "URL_to_image",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/weatherly-android"
+     "view": "#",
+      "code": "https://github.com/esmail-sarhadi/esp32-ota-update-example"
     }
   },
   {
-    "name": "Instagram MERN",
-    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
-    "image": "instagrammern",
-    "category": "mern",
+    "name": "Fashion MNIST Classification with CNN",
+    "desc": "The Fashion MNIST dataset consists of 70,000 grayscale images in 10 categories, with 7,000 images per category.",
+    "category": "Uni Projects",
+    "image": "URL_to_image",
     "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/instagram-mern"
+     "view": "#",
+      "code": "https://github.com/esmail-sarhadi/Fashion-MNIST-Classification-with-CNN"
     }
   },
   {
-    "name": "Flipkart MERN",
-    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
-    "image": "flipkartmern",
-    "category": "mern",
+    "name": "Resume",
+    "desc": "Computer engineer specializing in hardware and software programming. Experienced with ESP32 and STM32 microcontrollers.",
+    "category": "Resume",
+    "image": "URL_to_image",
     "links": {
-      "view": "https://flipkartwebs.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/flipkart-mern"
+     "view": "#",
+      "code": "https://github.com/esmail-sarhadi/resume"
     }
   },
   {
-    "name": "ResumeGen",
-    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
-    "image": "resumegen",
-    "category": "mern",
+    "name": "Send Command LoRa ESP32",
+    "desc": "This project involves the implementation of a LoRa communication system using the RH_RF95 library.",
+    "category": "IoT",
+    "image": "URL_to_image",
     "links": {
-      "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/jigar-sable/resumegen"
+     "view": "#",
+      "code": "https://github.com/esmail-sarhadi/Send-Command-Lora-Esp32"
     }
   },
   {
-    "name": "React-Projects",
-    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
-    "image": "reactprojects",
-    "category": "mern",
+    "name": "Turbine Dynamics Simulation",
+    "desc": "This project simulates the dynamics of a turbine under different operational conditions.",
+    "category": "Uni Projects",
+    "image": "URL_to_image",
     "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/React-Projects"
+     "view": "#",
+      "code": "https://github.com/esmail-sarhadi/Turbine-Dynamics-Simulation"
     }
   },
   {
-    "name": "Flipkart PHP",
-    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
-    "image": "flipkartphp",
-    "category": "lamp",
+    "name": "Stock Price Prediction using SimpleRNN",
+    "desc": "This project implements a stock price prediction model using a Recurrent Neural Network (RNN) in Python.",
+    "category": "Uni Projects",
+    "image": "URL_to_image",
     "links": {
-      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
-      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+     "view": "#",
+      "code": "https://github.com/esmail-sarhadi/Stock-Price-Prediction-using-SimpleRNN"
     }
   },
   {
-    "name": "JavaScript Projects Website",
-    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
-    "image": "jspro",
-    "category": "basicweb",
+    "name": "Vigenère Cipher Encryption and Decryption",
+    "desc": "This project provides an implementation of the Vigenère cipher for encrypting and decrypting text.",
+    "category": "Uni Projects",
+    "image": "URL_to_image",
     "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+     "view": "#",
+      "code": "https://github.com/esmail-sarhadi/Vigen-re-Cipher-Encryption-and-Decryption"
     }
   },
   {
-    "name": "Web UI Clones",
-    "desc": "Flipkart, YouTube, Instagram, Sololearn web UI clones using tailwindCSS.",
-    "image": "webuiclones",
-    "category": "mern",
-    "links": {
-      "view": "https://github.com/jigar-sable/web-ui-clones",
-      "code": "https://github.com/jigar-sable/web-ui-clones"
+    "name": "Hand Tracking with OpenCV and MediaPipe",
+    "desc": "This project demonstrates real-time hand tracking using OpenCV and MediaPipe.",
+    "category": "Uni Projects",
+    "image": "URL_to_image",
+    "links": { 
+    "view": "#",
+      "code": "https://github.com/esmail-sarhadi/Hand-Tracking-with-OpenCV-and-MediaPipe"
     }
   },
   {
-    "name": "Crypto Tracker",
-    "desc": "Crypto Tracker built using ReactJS and Chakra UI. Supports dark mode. API used coingecko.",
-    "image": "cryptotracker",
-    "category": "mern",
+    "name": "Minimum Hotel Stays",
+    "desc": "This project provides a solution to find the minimum number of hotel stays required to travel from the first city to the last city.",
+    "category": "Uni Projects",
+    "image": "URL_to_image",
     "links": {
-      "view": "https://crypto-tracker-react-project.netlify.app/",
-      "code": "https://github.com/jigar-sable/React-Projects/tree/main/crypto-tracker"
+     "view": "#",
+      "code": "https://github.com/esmail-sarhadi/Minimum-Hotel-Stays"
     }
   },
   {
-    "name": "Hulu Website",
-    "desc": "Hulu website built using NextJS and tailwindCSS. API used TMDB, deployed on vercel.",
-    "image": "hulu",
-    "category": "mern",
+    "name": "Double Pendulum Simulation",
+    "desc": "This project simulates the dynamics of a double pendulum system.",
+    "category": "Uni Projects",
+    "image": "URL_to_image",
     "links": {
-      "view": "https://hulu-clone-jigar-sable.vercel.app/",
-      "code": "https://github.com/jigar-sable/React-Projects/tree/main/hulu-clone"
+     "view": "#",
+      "code": "https://github.com/esmail-sarhadi/Double-Pendulum-Simulation"
     }
   },
   {
-    "name": "Portfolio Website",
-    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-    "image": "portfolio1",
-    "category": "basicweb",
+    "name": "LoRa ESP32 Communication",
+    "desc": "This repository contains code and instructions for setting up a communication system using LoRa and ESP32.",
+    "category": "IoT",
+    "image": "URL_to_image",
     "links": {
-      "view": "#",
-      "code": "https://github.com/jigar-sable/Portfolio-Website"
+     "view": "#",
+      "code": "https://github.com/esmail-sarhadi/LoRa-ESP32-Communication"
     }
   },
   {
-    "name": "Composey Website",
-    "desc": "Simple landing page website built using HTML, CSS, JavaScript and some JavaScript Libraries.",
-    "image": "composey",
-    "category": "basicweb",
+    "name": "Simple Relay LoRa ESP32",
+    "desc": "This project demonstrates a simple communication system using LoRa modules (RFM95) with Arduino.",
+    "category": "IoT",
+    "image": "URL_to_image",
     "links": {
-      "view": "https://composey.netlify.app/",
-      "code": "https://github.com/jigar-sable/LGMVIP-WebDev"
+     "view": "#",
+      "code": "https://github.com/esmail-sarhadi/Simple-Relay-Lora-Esp32"
     }
   },
   {
-    "name": "Webview App",
-    "desc": "It's an android app which uses web view component for displaying content. This app provides many different features.",
-    "image": "webviewapp",
-    "category": "android",
+    "name": "Lora Esp32 Send Date",
+    "desc": "This project demonstrates a communication system using LoRa modules (RFM95) with Arduino and DHT11 sensors.",
+    "category": "IoT",
+    "image": "URL_to_image",
     "links": {
-      "view": "https://github.com/jigar-sable/Android-Webview#webapp--android-webview-app",
-      "code": "https://github.com/jigar-sable/Android-Webview"
+     "view": "#",
+      "code": "https://github.com/esmail-sarhadi/Lora-Esp32-Send-Date"
     }
   },
   {
-    "name": "PHP Banking Website",
-    "desc": "Basic Banking System based on PHP and MySQL database. Made with HTML, CSS, JavaScript and backend with PHP.",
-    "image": "tsfbank",
-    "category": "lamp",
+    "name": "Lora Esp32 ThingSpeak",
+    "desc": "This project demonstrates a LoRa communication setup using multiple nodes transmitting temperature and humidity data to a central server.",
+    "category": "IoT",
+    "image": "URL_to_image",
     "links": {
-      "view": "https://tsfbank.rf.gd",
-      "code": "https://github.com/jigar-sable/TSF-Bank"
+     "view": "#",
+      "code": "https://github.com/esmail-sarhadi/Lora-Esp32-ThingSpeak"
     }
   },
   {
-    "name": "Bootstrap Portfolio",
-    "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
-    "image": "bootstrapportfolio",
-    "category": "basicweb",
+    "name": "University Management System",
+    "desc": "This project is a Flask-based web application designed to manage various aspects of a university.",
+    "category": "Uni Projects",
+    "image": "URL_to_image",
     "links": {
-      "view": "#",
-      "code": "#"
+     "view": "#",
+      "code": "https://github.com/esmail-sarhadi/University-Management-System"
     }
   },
   {
-    "name": "Bootstrap Template",
-    "desc": "Basic website template built using HTML and Bootstrap.",
-    "image": "bootstraptemplate",
-    "category": "basicweb",
+    "name": "Heathguard",
+    "desc": "Advanced Environmental and Health Monitoring System with ESP32.",
+    "category": "IoT",
+    "image": "URL_to_image",
     "links": {
-      "view": "#",
-      "code": "#"
+     "view": "#",
+      "code": "https://github.com/esmail-sarhadi/heathguard"
     }
   },
   {
-    "name": "Foodicious",
-    "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
-    "image": "foodicious",
-    "category": "basicweb",
+    "name": "ESP32 BT TempRelay",
+    "desc": "ESP32-based Bluetooth temperature and humidity monitoring system with relay control.",
+    "category": "IoT",
+    "image": "URL_to_image",
     "links": {
-      "view": "#",
-      "code": "#"
+     "view": "#",
+      "code": "https://github.com/esmail-sarhadi/ESP32-BT-TempRelay"
     }
   },
   {
-    "name": "Food Website",
-    "desc": "Basic food website landing page built using HTML, CSS, SASS, Bootstrap and jQuery.",
-    "image": "foodwebsite",
-    "category": "basicweb",
+    "name": "PHP Server Webserver ESP32",
+    "desc": "This project is an IoT-based solution for monitoring environmental conditions using an ESP32 microcontroller.",
+    "category": "IoT",
+    "image": "URL_to_image",
     "links": {
-      "view": "#",
-      "code": "#"
+     "view": "#",
+      "code": "https://github.com/esmail-sarhadi/phpserver-webserver-esp32"
     }
   },
   {
-    "name": "WebChat Website",
-    "desc": "It's a web based chat app made using popular javaScript library Socket IO. Allows multiple users to connect.",
-    "image": "webchat",
-    "category": "mern",
+    "name": "Binary Tree Subtree Analysis",
+    "desc": "This repository contains a Python implementation for constructing a binary tree from a given input, analyzing the maximum subtree sum, and finding the path to the node with the maximum subtree sum.",
+    "category": "Uni Projects",
+    "image": "URL_to_image",
     "links": {
-      "view": "https://github.com/jigar-sable/WebChat#webchat",
-      "code": "https://github.com/jigar-sable/WebChat"
+     "view": "#",
+      "code": "https://github.com/esmail-sarhadi/Binary-Tree-Subtree-Analysis"
     }
   },
   {
-    "name": "Basic Banking App",
-    "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
-    "image": "basicbank",
-    "category": "android",
+    "name": "Q Interpreter",
+    "desc": "Q+ Interpreter: A custom postfix notation calculator implemented in Python.",
+    "category": "Uni Projects",
+    "image": "URL_to_image",
     "links": {
-      "view": "https://github.com/jigar-sable/Basic_Banking_App#basic-banking-app",
-      "code": "https://github.com/jigar-sable/Basic_Banking_App"
+     "view": "#",
+      "code": "https://github.com/esmail-sarhadi/Q-Interpreter"
     }
   },
   {
-    "name": "JavaScript Issue Tracker",
-    "desc": "It provides the feature to Assign Issue With The Auto Generated Id By Using ChanceJS. Uses Local Storage.",
-    "image": "issuetrack",
-    "category": "basicweb",
+    "name": "Face Recognition Attendance System",
+    "desc": "This project is a face recognition-based attendance system that uses a webcam to capture and recognize faces.",
+    "category": "Uni Projects",
+    "image": "URL_to_image",
     "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects/projects/issuetracker",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects/tree/main/projects/issuetracker"
+     "view": "#",
+      "code": "https://github.com/esmail-sarhadi/Face-Recognition-Attendance-System"
     }
   },
   {
-    "name": "PHP PBL Portal",
-    "desc": "A simple portal in which students can submit their PBL projects and faculties can view by access admin panel.",
-    "image": "phppblform",
-    "category": "lamp",
+    "name": "IoT Temperature and Humidity Monitor with ESP32",
+    "desc": "This project is an IoT-based solution for monitoring temperature and humidity using an ESP32 microcontroller.",
+    "category": "IoT",
+    "image": "URL_to_image",
     "links": {
-      "view": "https://github.com/jigar-sable/PHP-Projects/tree/main/pblform#pbl-portal",
-      "code": "https://github.com/jigar-sable/PHP-Projects/tree/main/pblform"
-    }
-  },
-  {
-    "name": "Link List",
-    "desc": "All major profile links in a single website. It's just like clone of link tree. Personalized and Responsive.",
-    "image": "linklist",
-    "category": "basicweb",
-    "links": {
-      "view": "https://jigar-sable.github.io/LinkList",
-      "code": "https://github.com/jigar-sable/LinkList"
-    }
-  },
-  {
-    "name": "Job Finder Dummy",
-    "desc": "It Fetch JSON Data And Allow Feature To Search Within The Content Displayed. Will be Developed By Using Live APIs.",
-    "image": "saas",
-    "category": "basicweb",
-    "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects/api-projects/saas-jobs",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects/tree/main/api-projects/saas-jobs"
-    }
-  },
-  {
-    "name": "Old Websites",
-    "desc": "Bestwebs & ColorCoder. Two Years old websites memories. Simple with basic features.",
-    "image": "oldsites",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Resistor Color Codes",
-    "desc": "Simply provides the color codes of resistors. Calculation information and about resistors.",
-    "image": "resistercolor",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "KIA Info Website",
-    "desc": "Basic KIA webpage displays the info about seltos product range. Specs and Image Gallery.",
-    "image": "kiaweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Burger Shop Dummy",
-    "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
-    "image": "burgerweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Indian Temples",
-    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "templeweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Indian Temples",
-    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "templeweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Indian Temples",
-    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "templeweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
+     "view": "#",
+      "code": "https://github.com/esmail-sarhadi/IoT-Temperature-and-Humidity-Monitor-with-ESP32"
     }
   }
 ]
