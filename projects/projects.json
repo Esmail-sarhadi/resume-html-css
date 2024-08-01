@@ -2,7 +2,7 @@
   {
     "name": "ESP32 OTA Web Server",
     "desc": "This project demonstrates how to set up an ESP32 for Over-The-Air (OTA) updates using a web server. The ESP32 connects to a specified Wi-Fi network and hosts a web interface for uploading new firmware.",
-    "category": "IoT",
+    "category": "iot",
     "image": "URL_to_image",
     "links": {
      "view": "#",
@@ -12,7 +12,7 @@
   {
     "name": "ESP32 OTA Web Server Relay",
     "desc": "This project demonstrates how to set up an ESP32 for Over-The-Air (OTA) updates using a web server, along with controlling a relay.",
-    "category": "IoT",
+    "category": "iot",
     "image": "URL_to_image",
     "links": {
      "view": "#",
@@ -22,7 +22,7 @@
   {
     "name": "ESP32 OTA Update Example 2",
     "desc": "This project demonstrates how to set up an ESP32 for Over-The-Air (OTA) updates using the Arduino IDE, along with controlling a relay.",
-    "category": "IoT",
+    "category": "iot",
     "image": "URL_to_image",
     "links": {
      "view": "#",
@@ -32,7 +32,7 @@
   {
     "name": "ESP32 OTA Update Example",
     "desc": "This project demonstrates how to set up an ESP32 for Over-The-Air (OTA) updates using the Arduino IDE.",
-    "category": "IoT",
+    "category": "iot",
     "image": "URL_to_image",
     "links": {
      "view": "#",
@@ -42,7 +42,7 @@
   {
     "name": "Fashion MNIST Classification with CNN",
     "desc": "The Fashion MNIST dataset consists of 70,000 grayscale images in 10 categories, with 7,000 images per category.",
-    "category": "Uni Projects",
+    "category": "uni",
     "image": "URL_to_image",
     "links": {
      "view": "#",
@@ -62,7 +62,7 @@
   {
     "name": "Send Command LoRa ESP32",
     "desc": "This project involves the implementation of a LoRa communication system using the RH_RF95 library.",
-    "category": "IoT",
+    "category": "iot",
     "image": "URL_to_image",
     "links": {
      "view": "#",
@@ -72,7 +72,7 @@
   {
     "name": "Turbine Dynamics Simulation",
     "desc": "This project simulates the dynamics of a turbine under different operational conditions.",
-    "category": "Uni Projects",
+    "category": "uni",
     "image": "URL_to_image",
     "links": {
      "view": "#",
@@ -82,7 +82,7 @@
   {
     "name": "Stock Price Prediction using SimpleRNN",
     "desc": "This project implements a stock price prediction model using a Recurrent Neural Network (RNN) in Python.",
-    "category": "Uni Projects",
+    "category": "uni",
     "image": "URL_to_image",
     "links": {
      "view": "#",
@@ -92,7 +92,7 @@
   {
     "name": "Vigenère Cipher Encryption and Decryption",
     "desc": "This project provides an implementation of the Vigenère cipher for encrypting and decrypting text.",
-    "category": "Uni Projects",
+    "category": "uni",
     "image": "URL_to_image",
     "links": {
      "view": "#",
@@ -102,7 +102,7 @@
   {
     "name": "Hand Tracking with OpenCV and MediaPipe",
     "desc": "This project demonstrates real-time hand tracking using OpenCV and MediaPipe.",
-    "category": "Uni Projects",
+    "category": "uni",
     "image": "URL_to_image",
     "links": { 
     "view": "#",
@@ -112,7 +112,7 @@
   {
     "name": "Minimum Hotel Stays",
     "desc": "This project provides a solution to find the minimum number of hotel stays required to travel from the first city to the last city.",
-    "category": "Uni Projects",
+    "category": "uni",
     "image": "URL_to_image",
     "links": {
      "view": "#",
@@ -122,7 +122,7 @@
   {
     "name": "Double Pendulum Simulation",
     "desc": "This project simulates the dynamics of a double pendulum system.",
-    "category": "Uni Projects",
+    "category": "uni",
     "image": "URL_to_image",
     "links": {
      "view": "#",
@@ -132,7 +132,7 @@
   {
     "name": "LoRa ESP32 Communication",
     "desc": "This repository contains code and instructions for setting up a communication system using LoRa and ESP32.",
-    "category": "IoT",
+    "category": "iot",
     "image": "URL_to_image",
     "links": {
      "view": "#",
@@ -142,7 +142,7 @@
   {
     "name": "Simple Relay LoRa ESP32",
     "desc": "This project demonstrates a simple communication system using LoRa modules (RFM95) with Arduino.",
-    "category": "IoT",
+    "category": "iot",
     "image": "URL_to_image",
     "links": {
      "view": "#",
@@ -152,7 +152,7 @@
   {
     "name": "Lora Esp32 Send Date",
     "desc": "This project demonstrates a communication system using LoRa modules (RFM95) with Arduino and DHT11 sensors.",
-    "category": "IoT",
+    "category": "iot",
     "image": "URL_to_image",
     "links": {
      "view": "#",
@@ -162,7 +162,7 @@
   {
     "name": "Lora Esp32 ThingSpeak",
     "desc": "This project demonstrates a LoRa communication setup using multiple nodes transmitting temperature and humidity data to a central server.",
-    "category": "IoT",
+    "category": "iot",
     "image": "URL_to_image",
     "links": {
      "view": "#",
@@ -172,7 +172,7 @@
   {
     "name": "University Management System",
     "desc": "This project is a Flask-based web application designed to manage various aspects of a university.",
-    "category": "Uni Projects",
+    "category": "uni",
     "image": "URL_to_image",
     "links": {
      "view": "#",
@@ -182,7 +182,7 @@
   {
     "name": "Heathguard",
     "desc": "Advanced Environmental and Health Monitoring System with ESP32.",
-    "category": "IoT",
+    "category": "iot",
     "image": "URL_to_image",
     "links": {
      "view": "#",
@@ -192,7 +192,7 @@
   {
     "name": "ESP32 BT TempRelay",
     "desc": "ESP32-based Bluetooth temperature and humidity monitoring system with relay control.",
-    "category": "IoT",
+    "category": "iot",
     "image": "URL_to_image",
     "links": {
      "view": "#",
@@ -201,8 +201,8 @@
   },
   {
     "name": "PHP Server Webserver ESP32",
-    "desc": "This project is an IoT-based solution for monitoring environmental conditions using an ESP32 microcontroller.",
-    "category": "IoT",
+    "desc": "This project is an iot-based solution for monitoring environmental conditions using an ESP32 microcontroller.",
+    "category": "iot",
     "image": "URL_to_image",
     "links": {
      "view": "#",
@@ -212,7 +212,7 @@
   {
     "name": "Binary Tree Subtree Analysis",
     "desc": "This repository contains a Python implementation for constructing a binary tree from a given input, analyzing the maximum subtree sum, and finding the path to the node with the maximum subtree sum.",
-    "category": "Uni Projects",
+    "category": "uni",
     "image": "URL_to_image",
     "links": {
      "view": "#",
@@ -222,7 +222,7 @@
   {
     "name": "Q Interpreter",
     "desc": "Q+ Interpreter: A custom postfix notation calculator implemented in Python.",
-    "category": "Uni Projects",
+    "category": "uni",
     "image": "URL_to_image",
     "links": {
      "view": "#",
@@ -232,7 +232,7 @@
   {
     "name": "Face Recognition Attendance System",
     "desc": "This project is a face recognition-based attendance system that uses a webcam to capture and recognize faces.",
-    "category": "Uni Projects",
+    "category": "uni",
     "image": "URL_to_image",
     "links": {
      "view": "#",
@@ -240,13 +240,13 @@
     }
   },
   {
-    "name": "IoT Temperature and Humidity Monitor with ESP32",
-    "desc": "This project is an IoT-based solution for monitoring temperature and humidity using an ESP32 microcontroller.",
-    "category": "IoT",
+    "name": "iot Temperature and Humidity Monitor with ESP32",
+    "desc": "This project is an iot-based solution for monitoring temperature and humidity using an ESP32 microcontroller.",
+    "category": "iot",
     "image": "URL_to_image",
     "links": {
      "view": "#",
-      "code": "https://github.com/esmail-sarhadi/IoT-Temperature-and-Humidity-Monitor-with-ESP32"
+      "code": "https://github.com/esmail-sarhadi/iot-Temperature-and-Humidity-Monitor-with-ESP32"
     }
   }
 ]
